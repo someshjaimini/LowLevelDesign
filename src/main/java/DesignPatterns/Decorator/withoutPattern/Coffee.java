@@ -1,7 +1,7 @@
 package DesignPatterns.Decorator.withoutPattern;
 
 public class Coffee extends Beverages{
-    private double price = 50;
+    private double price = 100;
     public Coffee()
     {
 //        this.price = price;
